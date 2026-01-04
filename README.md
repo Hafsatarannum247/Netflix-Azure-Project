@@ -25,7 +25,6 @@ Auto Loader
 PySpark                                          
 Medallion Architecture (Bronze, Silver, Gold)
 
-
 📊 Data Flow
 
 Ingestion: Netflix data is ingested to ADLS (Bronze) using Databricks Auto Loader                                      
